@@ -13,21 +13,21 @@
 
 ---
 
-# 🚀 About Me
+#  About Me
 
-- 🎓 B.Tech Software Engineering @ Delhi Technological University (DTU)
-- 📈 CGPA: **9.35/10**
-- 🔬 ML Research Intern @ **DRDO**
-- 💻 Codeforces Specialist
-- ⭐ 3★ CodeChef
-- 🤖 Building AI Agents, RAG Systems & LLM Applications
-- 🌐 Full Stack Developer (MERN)
-- 🏢 Corporate Head @ Literature & Film Council (LFC), DTU
-- 🚀 Open to SWE, AI/ML & Full Stack Opportunities
+-  B.Tech Software Engineering @ Delhi Technological University (DTU)
+-  CGPA: **9.35/10**
+-  ML Research Intern @ **DRDO**
+-  Codeforces Specialist
+-  3★ CodeChef
+-  Building AI Agents, RAG Systems & LLM Applications
+-  Full Stack Developer (MERN)
+-  Corporate Head @ Literature & Film Council (LFC), DTU
+-  Open to SWE, AI/ML & Full Stack Opportunities
 
 ---
 
-# 🔬 Research
+#  Research
 
 ## Understanding Idioms in Neural Machine Translation
 

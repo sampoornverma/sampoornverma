@@ -1,10 +1,9 @@
 <div align="center">
 
-# Hi 👋, I'm Sampoorn Verma
+# Hi , I'm Sampoorn Verma
 
 ### Software Engineering '27 @ DTU (Formerly DCE) | ML Research @ DRDO | Codeforces Specialist | 3★ CodeChef
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Software+Engineering+Student+%40+DTU;ML+Research+Intern+%40+DRDO;Building+AI+Agents+%26+LLM+Applications;Codeforces+Specialist+%7C+3★+CodeChef;Full+Stack+Developer+%7C+AI+Enthusiast" />
 
 <br>
 
